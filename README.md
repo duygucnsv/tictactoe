@@ -10,6 +10,6 @@ You can access the app at this link: https://oliveiraeliel.github.io/tic-tac-toe
 
 ## The Project
 ![tic1](https://github.com/duygucnsv/tictactoe/blob/master/draw.png)
-![tic2](https://user-images.githubusercontent.com/52840354/143719383-a9db0f6e-4ae1-423b-8311-799d04a659d0.png)
+![tic2](https://github.com/duygucnsv/tictactoe/blob/master/winner.png)
 ![tic3](https://user-images.githubusercontent.com/52840354/143719438-24d4f328-0b52-421e-af13-a31c79079e75.png)
 
